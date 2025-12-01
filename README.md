@@ -46,9 +46,9 @@ Todos los *assets*, *shaders* y la configuración del proyecto están incluidos 
 
 1.  **Descargar el Proyecto:** Clona este repositorio o descarga el archivo ZIP completo.
 2.  **Verificar la Versión:** Asegúrate de tener **Unreal Engine 5.1.1** instalado a través del Epic Games Launcher.
-3.  **Abrir el Proyecto:** Navega hasta la carpeta raíz del proyecto y abre el archivo **`LaSombraDelEspejo.uproject`**.
+3.  **Abrir el Proyecto:** Navega hasta la carpeta raíz del proyecto y abre el archivo.
 4.  **Carga Inicial:** El motor puede tardar unos minutos en cargar el contenido y compilar los *shaders* la primera vez.
-5.  **Abrir Nivel:** Una vez en el editor, abre el nivel principal ubicado en `Content/Maps/Nivel_Principal.umap`.
+5.  **Abrir Nivel:** Una vez en el editor, abre el nivel principal ubicado en `Content/Menu/Main_Menu.umap`.
 6.  **Ejecutar:** Presiona el botón **Play** (▶️) en la barra de herramientas.
 
 ### Controles de Walkthrough
@@ -60,36 +60,12 @@ Todos los *assets*, *shaders* y la configuración del proyecto están incluidos 
 | **Mover Izquierda** | A |
 | **Mover Derecha** | D |
 | **Mirar/Girar** | Movimiento del Mouse |
-
----
-
-## 📦 Estructura de Assets Incluidos
-
-Todo el contenido utilizado es original o está licenciado para uso en este proyecto de portafolio/demostración.
-
-| Carpeta | Descripción | Fuente del Contenido |
-| :--- | :--- | :--- |
-| `Content/Geometry` | Mallas estáticas (Nanite) para arquitectura y estructuras. | Modelado Propio (Blender/Maya) |
-| `Content/Props` | Accesorios, mobiliario, candelabros y espejos. | Modelado Propio y Quixel Megascans |
-| `Content/Materials` | Materiales Maestros, Instancias y Funciones de Material. | Creación Propia |
-| `Content/Textures` | Mapas Albedo, Normal, Roughness, etc. (4K-8K). | Adobe Substance Painter/Quixel |
-| `Content/Blueprints` | Blueprints para el personaje, luces interactivas y efectos. | Creación Propia |
-| `Content/FX` | Sistemas de partículas de humo y polvo ambiental. | Creación Propia |
-
----
-
-## 🖼️ Galería y Demostración
-
-[Añadir un GIF o una imagen que muestre el entorno en movimiento aquí]
-
-[Añadir una captura de pantalla del detalle de Nanite aquí]
+| **Saltar** | Barra espaciadora |
 
 ---
 
 ## 🤝 Autor
 
-**Desarrollado por:** [Tu Nombre Completo / Nombre del Estudio]
+**Estudiante 8vo Semestre de la Universidad de los Andes Mérida Venezuela**
 
-**Contacto:** [Tu Correo Electrónico] | [Tu Perfil de LinkedIn] | [Tu Portafolio]
-
-## ⚖️ Lic
+**Desarrollado por:** [Jesus Salas]
