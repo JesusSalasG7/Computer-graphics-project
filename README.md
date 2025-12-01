@@ -3,7 +3,6 @@
 **Proyecto de Entorno de Computación Gráfica en Unreal Engine 5.1.1**
 
 [![GitHub](https://img.shields.io/badge/Versi%C3%B3n%20UE-5.1.1-blue)](https://www.unrealengine.com/)
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-green)](LICENSE)
 
 ## 📜 Descripción del Proyecto
 
