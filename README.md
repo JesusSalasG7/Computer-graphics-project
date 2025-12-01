@@ -23,7 +23,6 @@
 * **Lumen:** Implementación completa para la iluminación global, reflejos de *software* y oclusión ambiental en tiempo real.
 * **Materiales PBR:** Uso de *Materiales Maestros* modulares que facilitan la creación de instancias con ajustes de suciedad, desgaste y propiedades de reflexión.
 * **Efectos Cinematográficos:** Volumen de Post-Procesado configurado con *LUT* (Look Up Table), *Screen Space Global Illumination* (SSGI) y profundidad de campo (*Depth of Field*).
-* **Blueprints:** Incluye un *Character Blueprint* simple para el modo *walkthrough* (movimiento de primera persona).
 
 ---
 
