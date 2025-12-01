@@ -5,8 +5,6 @@
 [![GitHub](https://img.shields.io/badge/Versi%C3%B3n%20UE-5.1.1-blue)](https://www.unrealengine.com/)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-green)](LICENSE)
 
-[Añadir una imagen destacada o el logo del proyecto aquí]
-
 ## 📜 Descripción del Proyecto
 
 **La Sombra del Espejo** es un proyecto de visualización en tiempo real y *walkthrough* interactivo, desarrollado en **Unreal Engine 5.1.1**. El proyecto se enfoca en crear una atmósfera de misterio y detalle a través de un salón gótico/antiguo, utilizando las tecnologías de renderizado de última generación de Unreal Engine 5.
