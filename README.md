@@ -36,7 +36,6 @@ Este proyecto es demandante debido al uso intensivo de Lumen y Nanite.
 | **Sistema Operativo** | Windows 10/11 (64-bit) |
 | **Procesador** | Intel Core i7 (9th Gen) / AMD Ryzen 7 |
 | **Memoria RAM** | 32 GB |
-| **Tarjeta Gráfica** | NVIDIA GeForce RTX 3060 / AMD Radeon RX 6700 |
 | **Almacenamiento** | 70 GB (SSD NVMe muy recomendado) |
 
 ---
