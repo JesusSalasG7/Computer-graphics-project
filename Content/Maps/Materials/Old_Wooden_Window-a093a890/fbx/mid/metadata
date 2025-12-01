@@ -1,0 +1,194 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 6311 px/m</p><p><strong>Physical size:</strong> 0.1m x 1.27m x 2.03m</p><p><strong>Mesh type:</strong> Open mesh</p><p><strong>Maps:</strong> Roughness Specular Cavity Normal Bump AO Basecolor Displacement<em>(high tier only)</em> Gloss</p> <p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "2025-02-24T12:17:14.835019Z",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/e140643f-1375-4eb7-94a7-97c813454866/7eb67ff8-3e5b-4bbe-ad16-d7508464e128.jpeg",
+		"publishedAt": "2024-10-11T23:20:03.417241Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/e63e19c4-6d85-402c-83d6-4efcb7477cd9/6810e64b-4db0-4f4b-94ae-ecf56b18c442.jpeg",
+		"title": "Old Wooden Window",
+		"uid": "a093a890-4f09-4575-adde-e316f16d7bb5",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/0edd3540.png",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "West",
+				"slug": "west",
+				"uid": "0f151ec6-d635-42a7-8ac2-1acd5d793e17"
+			},
+			{
+				"name": "Wild",
+				"slug": "wild",
+				"uid": "1155e679-b3b2-4415-b5d4-206aaabd9918"
+			},
+			{
+				"name": "Weathered",
+				"slug": "weathered",
+				"uid": "1b898690-ea9c-4c08-9dcf-4f1c7582d1b5"
+			},
+			{
+				"name": "Flake",
+				"slug": "flake",
+				"uid": "53928a12-3787-4056-9e24-a28b4046207d"
+			},
+			{
+				"name": "Town",
+				"slug": "town",
+				"uid": "5ca41a7e-3b26-4bed-8a1b-9b57d9bc1456"
+			},
+			{
+				"name": "House",
+				"slug": "house",
+				"uid": "6596d504-e433-42e9-a760-b829827af869"
+			},
+			{
+				"name": "Paint",
+				"slug": "paint",
+				"uid": "88299db6-d6a9-4c34-8963-1eb7b0068d27"
+			},
+			{
+				"name": "Home",
+				"slug": "home",
+				"uid": "901cd72d-3193-480e-84f3-be1106297178"
+			},
+			{
+				"name": "Old",
+				"slug": "old",
+				"uid": "975b1521-db01-43ed-a939-c2c2da5027b1"
+			},
+			{
+				"name": "Window",
+				"slug": "window",
+				"uid": "99da1edd-038f-437e-b0bb-450da5d6df20"
+			},
+			{
+				"name": "Building",
+				"slug": "building",
+				"uid": "9bf7fc25-831e-4476-83c6-d481ed7b7799"
+			},
+			{
+				"name": "Hollywood",
+				"slug": "hollywood",
+				"uid": "a40ea0cb-ba3b-4a2d-b116-d31cbf06b41f"
+			},
+			{
+				"name": "Mini",
+				"slug": "mini",
+				"uid": "a83bf841-0d98-41c3-870f-f6165a7a0b43"
+			},
+			{
+				"name": "Wood",
+				"slug": "wood",
+				"uid": "bcd38165-4b32-484d-bce7-c6cdaf827f77"
+			},
+			{
+				"name": "Western",
+				"slug": "western",
+				"uid": "bf5b0f2d-b358-46ab-bc00-7623366647b9"
+			}
+		],
+		"category":
+		{
+			"name": "Components",
+			"path": "buildings-architecture/components",
+			"slug": "buildings-architecture--components",
+			"uid": "47619cca-ad4a-41ab-a35a-4b0131605209"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "ZBrush",
+					"groupName": "3D DCC Formats",
+					"code": "z-brush",
+					"icon": "zbrush",
+					"extensions": [
+						"zbp",
+						"ztl"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "ab82d0a4-bfcb-4197-9c5f-31e7e4b4f510",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.1",
+	"quality": "mid",
+	"format": "fbx",
+	"fileId": "bf3820cd-8f76-496e-ba41-376462eb1f16",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "ab82d0a4-bfcb-4197-9c5f-31e7e4b4f510",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}
